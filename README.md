@@ -1,4 +1,4 @@
-# Real-time Hand Dection Project
+# Real-time Hand Detection Project
 
 ## Dataset Intro
 EgoHands dataset contains in total 4800 labeled images from 48 Google Glass videos. The
